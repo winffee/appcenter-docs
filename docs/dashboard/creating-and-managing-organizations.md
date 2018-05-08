@@ -37,7 +37,7 @@ All of your organizations are accessible in the left navigation.
 There are two ways to add users to an organization:
 
 **Directly to the organization:**
-1. On the left side havigation, select the organization
+1. On the left side navigation, select the organization
 2. Select **People**
 3. Type the user's email address to add the user
 
@@ -45,14 +45,14 @@ This gives the user access to the organization as a collaborator. However, they 
 
 **In-directly through an app:**
 1. Select an app within an organization
-2. On the left side havigation, select the **Settings** page
+2. On the left side navigation, select the **Settings** page
 2. Select **People** 
 3. Type the user's email address to add the user
 
 Adding a user from outside the organization to an app automatically adds them to the organization. However, the user will only see the app(s) they were invited to.
 
 ## Changing users' organization roles
-1. On the left side havigation, select the organization
+1. On the left side navigation, select the organization
 2. Select **People** 
 3. Select the user
 4. Use the dropdown to re-assign the role
